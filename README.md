@@ -15,7 +15,7 @@ O app "AlcoolOff" integra inteligência artificial para proporcionar uma experi�
   <img src="src/assets/Cover.png" width="700" /> 
 </div>
 
-[Assista ao Vídeo de Demonstração](https://1drv.ms/v/c/1421fe0097050a1c/Ee589ClmPM5PgHTK2Up4dzwBupGhbrAHBP1CQsVuxOIhNA?e=esiSyM)
+[Assista ao Vídeo de Demonstração](https://1drv.ms/v/c/1421fe0097050a1c/Ee589ClmPM5PgHTK2Up4dzwBQJfWwzvml1uXo-RiIcdaRA?e=eupiPM)
 
 <div align="center">
   <video width="500" height="500" controls>
