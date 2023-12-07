@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="150" />
+  <img src="assets/Cover.png" width="150" />
   <h1>AlcoolOff</h1>
   <p>Liberte-se do álcool, viva plenamente </p>
   <p>
