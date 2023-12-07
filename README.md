@@ -17,7 +17,7 @@ O app "AlcoolOff" integra inteligência artificial para proporcionar uma experi�
 
 <div align="center">
   <video width="500" height="500" controls>
-  <source src="src/assets/videocover.mp4" type="video/mp4">
+  <source src="/src/assets/videocover.mp4" type="video/mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 </div>
