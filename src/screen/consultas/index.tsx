@@ -46,7 +46,10 @@ export default function Consultas() {
       console.log(response);
       setModalVisible(true);
     } catch (error) {
-      console.error("Erro ao chamar a API do ChatGPT:", error);
+      console.error(
+        "Erro ao chamar a API do ChatGPT: por favor mais informações",
+        error
+      );
     } finally {
       setLoading(false);
     }
