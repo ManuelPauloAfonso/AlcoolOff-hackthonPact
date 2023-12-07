@@ -12,7 +12,7 @@
 O app "AlcoolOff" integra inteligência artificial para proporcionar uma experiência personalizada e eficaz no combate ao alcoolismo. A IA é utilizada para adaptar as informações sobre o alcoolismo, oferecer ferramentas de autoajuda personalizadas e sugerir recursos de apoio com base nas necessidades individuais. Com a inteligência artificial, o app se torna uma ferramenta dinâmica e inovadora, proporcionando suporte relevante e eficiente para aqueles que buscam superar o vício em álcool.
 
 <div align="center">
-  <img src="src/assets/cover.png" width="700" /> 
+  <img src="src/assets/Cover.png" width="700" /> 
 </div>
 
 <div align="center">
